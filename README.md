@@ -31,6 +31,7 @@ all logs are saved to files
 ## Other
 
 [Code2Vec embeddings](https://drive.google.com/file/d/1MJ1QzU7473m7c6ZI2c8rNp9kOtHbLx0r/view?usp=sharing)
+[Our preprocessed dataset](https://doi.org/10.5281/zenodo.4395267)
 
 Folder `embeddings` contains embeddings from pretrained java14_model.
 Folder `emb_fine_tune` contains embeddings from the same pretrained model, which also post-trained on our dataset.
